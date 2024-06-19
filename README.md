@@ -1,4 +1,4 @@
-# ⛏ Hello Minecraft! Launcher 💎
+# ⛏ Hey Craft Launcher (复刻自HMCL)💎
 
 [![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://ci.huangyuhui.net/job/HMCL)
 ![Downloads](https://img.shields.io/github/downloads/huanghongxun/HMCL/total)
